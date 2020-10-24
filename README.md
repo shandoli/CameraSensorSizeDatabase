@@ -33,7 +33,6 @@ The sensor_database_detailed.csv
 
     CameraMaker,CameraModel,SensorDescription,SensorWidth(mm),SensorHeight(mm),SensorWidth(pixels),SensorHeight(pixels)
 
-The initial version of this database has been contributed by the openMVG project and Gregor Brdnik, the creator of http://www.digicamdb.com/.
 
 Contributions to the database are welcome (please use the pull request mechanism)
 
